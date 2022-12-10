@@ -58,3 +58,6 @@
 # Crashlytics generated file
 /HW 2/Unity App/crashlytics-build.properties
 
+*.zip
+*.dwlt
+*.dwlt
